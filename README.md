@@ -1,2 +1,2 @@
-# Homework-CarousselConcept
-This is the caroussel concept for Homework 2
+# Homework2
+There are the projects required for homework number 2
