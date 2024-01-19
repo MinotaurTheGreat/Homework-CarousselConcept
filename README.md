@@ -1,2 +1,3 @@
 # Homework2
 There are the projects required for homework number 2
+bootstrap components hass all the good stuff, including carousel, forgot to rename it tho...
